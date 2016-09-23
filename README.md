@@ -1,4 +1,4 @@
-### Judul : AdvancedWidget1
+### Judul Project : AdvancedWidget1
 ### Screenshot :
 Gambar 1: 
 ![alt text](https://github.com/gandhybagoes/AdvancedWidget1/blob/master/1.1.PNG "Gambar 1")
